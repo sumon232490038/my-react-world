@@ -1,0 +1,13 @@
+.countriescss {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.visited {
+  background-color: aqua;
+  color: black;
+}
+
+.flagscss img {
+  width: 100px;
+}

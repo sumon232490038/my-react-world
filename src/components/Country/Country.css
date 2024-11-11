@@ -1,0 +1,9 @@
+.country {
+  border: 2px solid red;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 15px;
+}
+img {
+  /* height: 200px; */
+}
